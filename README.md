@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Front-end разработчик</b> <br>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs" alt="React, TypeScript, Next.js, Node.js" /><br>
+  <img src="https://skills.syvixor.com/api/icons?i=reactjs,typescript,nodejs,nextjs,storybook,vite" alt="skills" /><br>
   Люблю создавать удобные интерфейсы и игровые проекты
 </p>
 
