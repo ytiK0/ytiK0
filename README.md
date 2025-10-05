@@ -25,6 +25,8 @@
 - 🧑‍🎨 [**skin-viewer**](https://github.com/ytiK0/skin-viewer)  
   React-компонент для рендера 3D-скина Minecraft с поддержкой мода Ears
 
+- 🔁 [**emotecraft-web-player**](https://github.com/ytiK0/emotecraft-web-player)  
+  Плеер анимаций из мода Emotecraft
 ---
 
 ## 🙋‍♂️ О себе
